@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    width: 350px;
+    width: 380px;
     height: 100vh;
     background: linear-gradient(65deg, rgb(240, 210, 154), blue, rgb(36, 170, 219),rgb(228, 101, 101));
     background-size: 490% 490%;
@@ -76,7 +76,6 @@ body {
     font-size: 1.3em;
     font-weight: bold;
     color: #fff;
-    text-transform: uppercase;
     background-color: #1d1d3d;
     background-size: 480%, 480%;
     border-radius: 19px;
