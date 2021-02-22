@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "TWAINER",
+    "description": "Emir Selman Karaatlı - Bora Durmuş -  Muhammed İsmail Bayam 2020 Tübitak Projesi",
+    "version": "1.0",
+    "icons": {
+        "128": "icon128.png"
+    },
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_title": "Twainer"
+    },
+    "permissions": [
+        "activeTab",
+        "storage"
+    ]
+
+}
